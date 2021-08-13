@@ -1,0 +1,26 @@
+{
+  "CJ-01-ABC" : {
+    "c" : {
+      "plateNumber" : "CJ-01-ABC"
+    },
+    "entryTime" : 1628849480573,
+    "periodInSeconds" : 0,
+    "message" : "The car with the plate number CJ-01-ABC has entered the parking lot "
+  },
+  "CJ-01-BCD" : {
+    "c" : {
+      "plateNumber" : "CJ-01-BCD"
+    },
+    "entryTime" : 1628849485581,
+    "periodInSeconds" : 5,
+    "message" : "The car with the plate number CJ-01-BCD  left the parking lot"
+  },
+  "CJ-01-ABF" : {
+    "c" : {
+      "plateNumber" : "CJ-01-ABF"
+    },
+    "entryTime" : 1628849488638,
+    "periodInSeconds" : 8,
+    "message" : "The car with the plate number CJ-01-ABF  left the parking lot"
+  }
+}
